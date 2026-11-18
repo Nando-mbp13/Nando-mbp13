@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1220,50:0E7490,100:22D3EE&text=NANDO_OS&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=CORE%20EDITION%20%7C%20DEVELOPER%20PROFILE&descAlignY=58&descSize=17" alt="NANDO OS Banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B1220,50:0E7490,100:22D3EE&text=Nando-mbp13&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=%20%7C%20DEVELOPER%20PROFILE&descAlignY=58&descSize=17" alt="NANDO OS Banner"/>
 
 ### `> Welcome to my developer environment_`
 
