@@ -17,7 +17,7 @@
 
 ---
 
-## `01` · SYSTEM.IDENTITY
+## SYSTEM.IDENTITY
 
 ```bash
 ┌─────────────────────────────────────────────────┐
@@ -60,7 +60,7 @@ Me interesa comprender cómo funcionan los sistemas, experimentar con nuevas tec
 
 ---
 
-## `02` · TECH.STACK
+## TECH.STACK
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Me interesa comprender cómo funcionan los sistemas, experimentar con nuevas tec
 
 ---
 
-## `03` · PROJECT.DIRECTORY
+## PROJECT.DIRECTORY
 
 ```bash
 nando@github:~/projects$ ls -la
@@ -137,7 +137,7 @@ Proyecto con múltiples interfaces web organizadas por funcionalidades, incluyen
 
 ---
 
-## `04` · SYSTEM.ANALYTICS
+## SYSTEM.ANALYTICS
 
 <div align="center">
 
@@ -156,7 +156,7 @@ Proyecto con múltiples interfaces web organizadas por funcionalidades, incluyen
 
 ---
 
-## `05` · DEVELOPMENT.ROADMAP
+## DEVELOPMENT.ROADMAP
 
 ```bash
 nando@github:~$ cat roadmap.txt
@@ -173,7 +173,7 @@ nando@github:~$ cat roadmap.txt
 
 ---
 
-## `06` · CONNECT.NETWORK
+## CONNECT.NETWORK
 
 <div align="center">
 
@@ -183,12 +183,17 @@ Estoy abierto a aprender, colaborar y explorar nuevas oportunidades de desarroll
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nando--mbp13-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nando-mbp13)
 
+[![Instagram](https://img.shields.io/badge/Instagram-iam__nando__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iam_nando_/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-barrena-plasencia-a3348633b/)
+
+[![Email](https://img.shields.io/badge/Gmail-Enviar_Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barrenaplasenciaf@gmail.com)
+
+
 <br/><br/>
 
-*"Building the future, one commit at a time."*
+*"I wanna be one of the greats."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0B1220,50:0E7490,100:22D3EE" width="100%" alt="Footer"/>
-
-<sub>NANDO_OS · CORE EDITION | Designed with curiosity & code</sub>
 
 </div>
